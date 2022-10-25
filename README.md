@@ -1,4 +1,4 @@
-# DTS REA4 Final Project
+# DTS REA4 #18 Final Project
 
 ![](./ezgif-1-fcea569195.gif)
 
@@ -9,14 +9,13 @@
 [Link API](https://developers.themoviedb.org/3).
 
 ### Penjelasan terkait project, API, fitur unik :
-- ID untuk masing-masing komponen:
+- Project ini berisi :
     1. Container: `app`
     1. Judul: `todo-title`
     1. Subtitle: `todo-subtitle`
     1. Input: `todo-input`
     1. Button: `todo-submit`
     1. Ul: `todo-output`
-- Fungsi yang dipasang di button saat diklik: `fnClickHandler`
-- Fungsi yang dipasang di input saat ditekan enter di field input: `fnClickHandler`
-- **Tidak perlu validasi jika input kosong** (input kosong jika disubmit akan menambahkan satu \<li\> kosong)
-- CSS dapat ditaruh di dalam html dengan tag \<style\> atau CSS external. Jangan menggunakan library tambahan.
+- Fitur unik berisi :
+    I. Pencarian : `Title Movies`
+    II. Tambah Favorit : `Menambahkan Film ke Daftar Favorit`
