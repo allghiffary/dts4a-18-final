@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA9169AO8sFDClyhnsJ5ZmFZo2Bu2HtRJs",
-  authDomain: "netflix-clone-next-7d945.firebaseapp.com",
-  projectId: "netflix-clone-next-7d945",
-  storageBucket: "netflix-clone-next-7d945.appspot.com",
-  messagingSenderId: "155296789531",
-  appId: "1:155296789531:web:d7420a6717ff6412a6b4be",
+  apiKey: "AIzaSyCL52g_XhFSvvuG5-ncaxAhYFNr0BWKKyU",
+  authDomain: "authfirebase-80289.firebaseapp.com",
+  projectId: "authfirebase-80289",
+  storageBucket: "authfirebase-80289.appspot.com",
+  messagingSenderId: "758225204959",
+  appId: "1:758225204959:web:4c0064024272b66ee95b6a"
 };
 
 // Initialize Firebase

@@ -2,7 +2,7 @@ import { BellIcon, SearchIcon } from "@heroicons/react/solid";
 import { useEffect, useState } from "react";
 import { Search } from "./Search";
 
-function Header({ handleLogout, setCari }) {
+function Header({ handleLogout, getCari }) {
   const [isScrolled, setIsScrolled] = useState(false);
   const [seacrh, setSearch] = useState(false);
 
@@ -43,7 +43,7 @@ function Header({ handleLogout, setCari }) {
       </div>
 
       <div className="flex items-center space-x-4 text-sm font-light">
-        {seacrh && <Search setCari={setCari}/>}
+        {seacrh && <Search getCari={getCari} />}
         <SearchIcon
           className="hidden cursor-pointer h-6 w-6 sm:inline"
           onClick={() => setSearch(!seacrh)}
