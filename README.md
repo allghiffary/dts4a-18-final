@@ -10,12 +10,10 @@
 
 ### Penjelasan terkait project, API, fitur unik :
 - Project ini berisi :
-    1. Container: `app`
-    1. Judul: `todo-title`
-    1. Subtitle: `todo-subtitle`
-    1. Input: `todo-input`
-    1. Button: `todo-submit`
-    1. Ul: `todo-output`
+    1. `Halaman Login`: Ini adalah halaman authentication sebelum masuk ke Halaman Utama
+    1. `Halaman Register`: 
+    1. `Halaman Utama`: 
+    1. `Modal / Halaman Detail`:
 - Fitur unik berisi :
-    1. Pencarian : `Title Movies`
-    1. Tambah Favorit : `Menambahkan Film ke Daftar Favorit`
+    1. `Pencarian` : Pencarian Film Berdasarkan judul Film
+    1. `Tambah Favorit` : Menambahkan Film ke dalam Daftar Favorit
