@@ -9,11 +9,12 @@
 [Link API](https://developers.themoviedb.org/3).
 
 ### Penjelasan terkait project, API, fitur unik :
+
 - Project ini berisi :
-    1. `Halaman Login`: Ini adalah halaman authentication sebelum masuk ke Halaman Utama
-    1. `Halaman Register`: 
-    1. `Halaman Utama`: 
-    1. `Modal / Halaman Detail`:
+    1. `Halaman Login`: Menggunakan bantuan firebase authentication
+    1. `Halaman Register`: Register bisa menggunakan email bebas tanpa verifikasi
+    1. `Halaman Utama`: Halaman Utama berisi daftar film Trending Now, Ttop Rated, Action Thrillers, Comedies, Scary Movies, Romance Movies & Documentaries.  
+    1. `Modal / Halaman Detail` : Halaman ini menampilkan modal yang berisi cuplikan trailer dari film yang dipilih dan berisikan sinopsis dari film tersebut.
 - Fitur unik berisi :
     1. `Pencarian` : Pencarian Film Berdasarkan judul Film
-    1. `Tambah Favorit` : Menambahkan Film ke dalam Daftar Favorit
+    1. `Tambah Favorit` : Menambahkan Film ke dalam Daftar Favorit di halaman Detail saat popup modal dan menampilkan hasil favorite di atas daftar film Trending Now.
