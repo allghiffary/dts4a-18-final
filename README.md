@@ -17,5 +17,5 @@
     1. Button: `todo-submit`
     1. Ul: `todo-output`
 - Fitur unik berisi :
-    I. Pencarian : `Title Movies`
-    II. Tambah Favorit : `Menambahkan Film ke Daftar Favorit`
+    1. Pencarian : `Title Movies`
+    1. Tambah Favorit : `Menambahkan Film ke Daftar Favorit`
