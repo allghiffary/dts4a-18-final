@@ -1,19 +1,22 @@
 # DTS REA4 Final Project
 
-Ketentuan lengkap bisa dilihat di [Final Project Guidelines](https://docs.google.com/document/d/122KyWNQ4xxU4aFwWbM4vIfH7LM4AH2CZEZa3YsEHjCk). 
+![](./ezgif-1-fcea569195.gif)
 
-## Daftar pair
+### Link Live App
+[Link Live](https://nutflux.netlify.app/).
 
-Tugas dikerjakan secara berpasangan, untuk daftar kelompok bisa dilihat pada masing-masing Classroom atau Discord Class.
+### Link API
+[Link API](https://developers.themoviedb.org/3).
 
-## Fork and Clone
-
-Mohon perwakilan dari pair bisa melakukan fork repo ini dan clone, untuk repositori yang di fork menggunakan penamaan:
-
-`dts4[a/b/c]-[nomor pair]-final`
-
-Contoh: `dts4a-01-final`
-
-## Branching, commit
-
-Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun hasil akhirnya harus di merge ke branch `main` dan di push ke Github. Pastikan hasil akhir kode sudah ter-push!
+### Penjelasan terkait project, API, fitur unik :
+- ID untuk masing-masing komponen:
+    1. Container: `app`
+    1. Judul: `todo-title`
+    1. Subtitle: `todo-subtitle`
+    1. Input: `todo-input`
+    1. Button: `todo-submit`
+    1. Ul: `todo-output`
+- Fungsi yang dipasang di button saat diklik: `fnClickHandler`
+- Fungsi yang dipasang di input saat ditekan enter di field input: `fnClickHandler`
+- **Tidak perlu validasi jika input kosong** (input kosong jika disubmit akan menambahkan satu \<li\> kosong)
+- CSS dapat ditaruh di dalam html dengan tag \<style\> atau CSS external. Jangan menggunakan library tambahan.
