@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter} from "react-router-dom";
 
 /* import LoginPage from "./containers/LoginPage";
 import RegisterPage from "./containers/RegisterPage"; */
