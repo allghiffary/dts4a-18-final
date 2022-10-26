@@ -17,7 +17,7 @@
     1. `Halaman Utama`: Halaman Utama berisi daftar film Trending Now, Top Rated, Action Thrillers, Comedies, Scary Movies, Romance Movies & Documentaries.  
     1. `Modal / Halaman Detail` : Halaman ini menampilkan modal yang berisi cuplikan trailer dari film yang dipilih dan berisikan sinopsis dari film tersebut.
 - API Pihak ketiga :
-    1. `API` : https://developers.themoviedb.org/3 [Link Live](https://nutflux.netlify.app/).
+    1. `API` : https://developers.themoviedb.org/3
 - Fitur unik berisi :
     1. `Pencarian` : Pencarian Film Berdasarkan judul Film
     1. `Tambah Favorit` : Menambahkan Film ke dalam Daftar Favorit di halaman Detail saat popup modal dan menampilkan hasil favorite di atas daftar film Trending Now.
