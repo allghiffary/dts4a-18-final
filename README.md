@@ -1,6 +1,6 @@
 # DTS REA4 #18 Final Project
 
-![](./ezgif-1-fcea569195.gif)
+![](./dokumentasi.gif)
 
 ### Link Live App
 [Link Live](https://nutflux.netlify.app/).
@@ -11,9 +11,10 @@
 ### Penjelasan terkait project, API, fitur unik :
 
 - Project ini berisi :
+    1. `Tampilan`: Menggunakan `Tailwind`
     1. `Halaman Login`: Menggunakan bantuan firebase authentication
     1. `Halaman Register`: Register bisa menggunakan email bebas tanpa verifikasi
-    1. `Halaman Utama`: Halaman Utama berisi daftar film Trending Now, Ttop Rated, Action Thrillers, Comedies, Scary Movies, Romance Movies & Documentaries.  
+    1. `Halaman Utama`: Halaman Utama berisi daftar film Trending Now, Top Rated, Action Thrillers, Comedies, Scary Movies, Romance Movies & Documentaries.  
     1. `Modal / Halaman Detail` : Halaman ini menampilkan modal yang berisi cuplikan trailer dari film yang dipilih dan berisikan sinopsis dari film tersebut.
 - Fitur unik berisi :
     1. `Pencarian` : Pencarian Film Berdasarkan judul Film
