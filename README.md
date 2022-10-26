@@ -3,7 +3,7 @@
 ![](./dokumentasi.gif)
 
 ### Link Live App
-[Link Live](https://nutflux.netlify.app/).
+[Link Live](https://dts-re4a-18.netlify.app/).
 
 ### Link API
 [Link API](https://developers.themoviedb.org/3).
