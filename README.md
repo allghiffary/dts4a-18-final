@@ -12,6 +12,7 @@
 
 - Project ini berisi :
     1. `Tampilan`: Menggunakan `Tailwind`
+    1. `API`: Menggunakan `https://developers.themoviedb.org/3`
     1. `Halaman Login`: Menggunakan bantuan firebase authentication
     1. `Halaman Register`: Register bisa menggunakan email bebas tanpa verifikasi
     1. `Halaman Utama`: Halaman Utama berisi daftar film Trending Now, Top Rated, Action Thrillers, Comedies, Scary Movies, Romance Movies & Documentaries.  
